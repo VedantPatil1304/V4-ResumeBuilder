@@ -50,7 +50,7 @@ npm run dev
 ## 📍 Live Demo
 
 - Once deployed:
-🔗 https://v4-resumebuilder.vercel.app
+🔗 [https://v4-resumebuilder.vercel.app](https://v4-resume-builder.vercel.app/)
 
 ---
 
