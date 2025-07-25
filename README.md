@@ -54,7 +54,7 @@ npm run dev
 
 ## 🖨️ Print Tip
 
--💡 When printing/downloading the resume, uncheck "Headers and footers" in your browser's print dialog to remove extra URL/date info.
+-💡 When printing/downloading the resume, uncheck "Headers and footers" in your browser's print dialog to remove extra URL/date info if needed .
 
 ---
 
